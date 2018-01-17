@@ -1,1 +1,1 @@
-MazeGeneratore
+maze
